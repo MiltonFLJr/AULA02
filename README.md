@@ -4,4 +4,4 @@ Códigos-fonte da aula 02
 Mariana Teruya
 Daniel Alves Pereira
 Eder Santos Cirino
-Ricky Cristopher
+Milton Lima
