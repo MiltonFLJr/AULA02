@@ -1,4 +1,6 @@
 # AULA02
 Códigos-fonte da aula 02
-Ricardo Pup o Larguesa
+[RICARDO PUPO LARGUESA]
 Mariana Teruya
+Daniel Alves Pereira
+Eder Santos Cirino
